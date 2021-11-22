@@ -16,9 +16,9 @@ Package: com.leftyfl1p.advertidfaker
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: leftyfl1p
-Installed-Size: 2000
+Installed-Size: 252
 Depends: mobilesubstrate
-Filename: debs//com.leftyfl1p.advertidfaker_0.0.1_iphoneos-arm.deb
+Filename: debs/com.leftyfl1p.advertidfaker_0.0.1_iphoneos-arm.deb
 Size: 5922
 MD5sum: e0288e853fbd1bfe2281096d67ac8cd6
 SHA1: adb886096a32030024bdfb33d3fdd985aeddd7b6

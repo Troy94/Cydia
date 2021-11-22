@@ -13,12 +13,12 @@ Name: MGSpoof
 Author: Tony
 
 Package: com.leftyfl1p.advertidfaker
-Version: 0.0.1
+Version: 2
 Section: Tweaks
 Maintainer: leftyfl1p
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.leftyfl1p.advertidfaker_0.0.1_iphoneos-arm.deb
+Filename: debs/com.leftyfl1p.advertidfaker_0.0.1_iphoneos-arm.deb
 Size: 5922
 Installed-Size: 8192
 SHA256: 0ddfc88ed03a8ca7ee72e73fcd90a09df4bc37bcb1d0ac02a3387317a8733715

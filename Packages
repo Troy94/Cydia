@@ -13,7 +13,7 @@ Name: MGSpoof
 Author: Tony
 
 Package: com.leftyfl1p.advertidfaker
-Version: 0.0.1
+Version: 2
 Section: Tweaks
 Maintainer: leftyfl1p
 Depends: mobilesubstrate

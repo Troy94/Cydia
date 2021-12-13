@@ -1,13 +1,13 @@
 Package: com.tonyk7.mgspoof
-Version: 0.0.4-1
+Version: 0.0.5-5
 Section: Tweaks
 Maintainer: Jake James
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.tonyk7.mgspoof_0.0.4-1_iphoneos-arm.deb
-Size: 34766
+Filename: debs//com.tonyk7.mgspoof_0.0.5-5+debug_iphoneos-arm.deb
+Size:26678
 Installed-Size: 312
-SHA256: 9783172c9e575fa376e7c97f5d41a3ee5e66d9247e0be34a6fc04b98c50cc426
+SHA256: aac34a44b98653506d2f5f161e3ae2ae5025da635e7ed561f05e0c60fe5c61f2
 Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 13.5)
 Name: MGSpoof
 Author: Tony
@@ -28,7 +28,7 @@ Description: Fake your Advertising Identifier. Run aditfake in console to regene
 Author: leftyfl1p
 Name: AdvertIDFaker
 
-Package: com.troy.zxtouch
+Package: com.zjx.zxtouch
 Version: 0.0.7
 Architecture: iphoneos-arm
 Maintainer: troy

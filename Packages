@@ -13,18 +13,16 @@ Name: MGSpoof
 Author: Tony
 
 Package: com.leftyfl1p.advertidfaker
-Version: 0.0.2
-Architecture: iphoneos-arm
+Version: 2
+Section: Tweaks
 Maintainer: leftyfl1p
-Installed-Size: 252
 Depends: mobilesubstrate
+Architecture: iphoneos-arm
 Filename: debs//com.leftyfl1p.advertidfaker_0.0.1_iphoneos-arm.deb
 Size: 5922
-MD5sum: e0288e853fbd1bfe2281096d67ac8cd6
-SHA1: adb886096a32030024bdfb33d3fdd985aeddd7b6
+Installed-Size: 8192
 SHA256: 0ddfc88ed03a8ca7ee72e73fcd90a09df4bc37bcb1d0ac02a3387317a8733715
-Section: Tweaks
-Description: Fake your Advertising Identifier. Run aditfake in console to regenerate.
+Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 13.5)
+Name: fake Adv
 Author: leftyfl1p
-Name: AdvertIDFaker
 

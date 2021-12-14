@@ -26,3 +26,20 @@ Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 13.5
 Name: fake Adv
 Author: leftyfl1p
 
+Package: com.troy.zxtouch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: troy
+Installed-Size: 39262223
+Depends: mobilesubstrate
+Filename: debs//com.zjx.ioscontrol_0.0.7-10_iphoneos-arm.deb
+Size: 13374176 
+MD5sum: a6044c40ba7620ed3ab4bbda0621b02d
+SHA1: 9d41558244de85b2e03bc01ea598b1692131624f
+SHA256: e2e51e75b8e5e4111c751a2ca488be7193a9bac714225d395964d55ee0003622
+Section: Tweaks
+Description: zxtouch
+Author: zxtouch
+Name: zxtouch
+
+

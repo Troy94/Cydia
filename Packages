@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: debs//com.tonyk7.mgspoof_0.0.5debug_iphoneos-arm.deb
 Size: 26678
 Installed-Size: 31200
+MD5sum: 0f924d2620ce8744d3477aa468db7318
+SHA1: 55ee42a19698742307d6547d4fc6687c7356b334
 SHA256: aac34a44b98653506d2f5f161e3ae2ae5025da635e7ed561f05e0c60fe5c61f2
 Description: upd
 Name: spoofer

@@ -9,7 +9,7 @@ Size: 26678
 Installed-Size: 31200
 SHA256: aac34a44b98653506d2f5f161e3ae2ae5025da635e7ed561f05e0c60fe5c61f2
 Description: Tool that can be used to spoof MGCopyAnswer's result. (iOS 9 - 13.5)
-Name: MGSpoof
+Name: MGSpoof_changed_1
 Author: Tony
 
 Package: com.leftyfl1p.advertidfaker

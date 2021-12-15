@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Tony
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.tonyk7.mgspoof_0.0.4_iphoneos-arm.deb
+Filename: debs//com.tonyk7.mgspoof_0.0.4-1_iphoneos-arm.deb
 Size: 19570
 MD5sum: 7ce7bf55a7cc9b9ba353f1f217180060
 Section: Tweaks
@@ -16,7 +16,7 @@ Name: MGSpoof
 Package: com.tonyk7.mgspoof
 Version: 0.0.6
 Section: Tweaks
-Maintainer: Jake James
+Maintainer: TROY
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs//com.tonyk7.mgspoof_0.0.5debug_iphoneos-arm.deb
